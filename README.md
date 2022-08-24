@@ -12,27 +12,28 @@
 
 
 
+
 ## :memo: Final project of the course
 
 ### Step 1: Choose object for the project 
 
 - [x] Must have at least six parts and one inclined plane
-- [x] Send a combination diagram to E3 ==figure 1==
+- [x] Send a combination diagram to E3 :bulb: figure 1
 - [x] Must be unique from other classmate(first upload)
 ![](https://i.imgur.com/rWAJQdO.jpg)
-==figure 1== . Product combination diagram
+:bulb: figure 1 . Product combination diagram
 
 ### Step 2: Parts description and Exploded Views
 
-We need to descript the parts seperately(零件說明)==figure 2== and draw the exploded views (爆炸圖)==figure 3== as to clarify what to draw in AutoCAD later.
+We need to descript the parts seperately (零件說明) :bulb: figure 2 and draw the exploded views (爆炸圖) :bulb: figure 3 as to clarify what to draw in AutoCAD later.
 
 ![](https://i.imgur.com/4LVcbS6.jpg)
 
-==figure 2== . Parts description
+:bulb: figure 2 . Parts description
 
 ![](https://i.imgur.com/Wam0xIi.jpg)
 
-==figure 3== . Exploded Views
+:bulb: figure 3 . Exploded Views
 
 
 
@@ -40,4 +41,57 @@ We need to descript the parts seperately(零件說明)==figure 2== and draw the 
 
 ![](https://i.imgur.com/Vql1M5A.jpg)
 
-==figure 4== . the Combined section view (組合剖視圖) of my final project. 
+:bulb: figure 4 . the Combined section view (組合剖視圖) of my final project. 
+
+
+## BONUS: The Homework and notes for this class
+
+- Table of the source
+
+| Description(.pdf)  | AutoCAD FIle (.dwg)              |
+| ----------------- |:----------------------- |
+| HW1 [:link:][HW1.pdf]  | [:link:][HW1.dwg]   |
+| HW2 [:link:][HW2.pdf]  | [:link:][HW2.dwg]   |
+| HW3 [:link:][HW3.pdf]  | [:link:][HW3.dwg]   |
+| HW4 [:link:][HW4.pdf]  | [:link:][HW4.dwg]   |
+| HW5 [:link:][HW5.pdf]  | [:link:][HW5.dwg]   |
+| HW6 [:link:][HW6.pdf]  | [:link:][HW6.dwg]   |
+| HW7 [:link:][HW7.pdf]  | [:link:][HW7.dwg]   |
+| HW8 [:link:][HW8.pdf]  | [:link:][HW8.dwg]   |
+| HW9 [:link:][HW9.pdf]  | [:link:][HW9.dwg]   |
+| HW10 [:link:][HW10.pdf]  | [:link:][HW10.dwg]   |
+| HW11 [:link:][HW11.pdf]  | [:link:][HW11.dwg]   |
+| HW12 [:link:][HW12.pdf]  | [:link:][HW12.dwg]   |
+| HW13 [:link:][HW13.pdf]  | [:link:][HW13.dwg]   |
+| Final project     | [:link:][Final project] |
+| Class notes       | [:link:][notes] | 
+
+[notes]:https://drive.google.com/file/d/14d5Gr0JFuOnU0W0N5GVusxeSPogGgggC/view?usp=sharing
+[Final project]: https://github.com/imyungchu/Engineering-Graphics/tree/main/final%20project
+[Hw1.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD1.pdf
+[Hw1.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317%E6%B1%9F%E8%A9%A0%E7%AD%91(HW1).dwg
+[Hw2.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD2.pdf
+[Hw2.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317%E6%B1%9F%E8%A9%A0%E7%AD%91(HW2).dwg
+[Hw3.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD3.pdf
+[Hw3.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317%E6%B1%9F%E8%A9%A0%E7%AD%91(HW3).dwg
+[Hw4.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD4.pdf
+[Hw4.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317%E6%B1%9F%E8%A9%A0%E7%AD%91(HW4).dwg
+[Hw5.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD5.pdf
+[Hw5.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW5).dwg
+[Hw6.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD6.pdf
+[Hw6.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW6).dwg
+[Hw7.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD7.pdf
+[Hw7.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW7).dwg
+[Hw8.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD8.pdf
+[Hw8.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW8).dwg
+[Hw9.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD9.pdf
+[Hw9.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW9).dwg
+[Hw10.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F10.pdf
+[Hw10.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW10).dwg
+[Hw11.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD11.pdf
+[Hw11.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW11).dwg
+[Hw12.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD12.pdf
+[Hw12.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW12).dwg
+[Hw13.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F13.pdf
+[Hw13.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317_%E6%B1%9F%E8%A9%A0%E7%AD%91(HW13).dwg
+ 
