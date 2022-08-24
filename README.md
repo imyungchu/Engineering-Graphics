@@ -65,9 +65,11 @@ We need to descript the parts seperately (零件說明) :bulb: figure 2 and draw
 | HW13 [:link:][HW13.pdf]  | [:link:][HW13.dwg]   |
 | Final project     | [:link:][Final project] |
 | Class notes       | [:link:][notes] | 
+| AutoCAD Final Exam | [:link:][Final Exam]
 
-[notes]:https://drive.google.com/file/d/14d5Gr0JFuOnU0W0N5GVusxeSPogGgggC/view?usp=sharing
+[notes]:https://drive.google.com/drive/u/0/folders/1MoTxLxxEvAGjmuO-pYVtDaJUEket1hQh
 [Final project]: https://github.com/imyungchu/Engineering-Graphics/tree/main/final%20project
+[Final Exam]:https://drive.google.com/drive/folders/1sE3RksGsrFfCJcwSR2H-woVnofvzkwZU?usp=sharing
 [Hw1.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD1.pdf
 [Hw1.dwg]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/0813317%E6%B1%9F%E8%A9%A0%E7%AD%91(HW1).dwg
 [Hw2.pdf]:https://github.com/imyungchu/Engineering-Graphics/blob/main/HW/%E4%B8%8A%E6%A9%9F%E4%BD%9C%E6%A5%AD2.pdf
