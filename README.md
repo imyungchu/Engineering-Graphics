@@ -1,6 +1,3 @@
-# Engineering-Graphics
-The repository is built  to record the file and notes in the course. 
-
 # 工程圖學 Engineering Graphics
 
 ###### tags: `109下` `二下必修` `AutoCAD`
